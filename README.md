@@ -1,5 +1,12 @@
 # Xactions
 
+## Github Actions
+
+- [https://docs.github.com/en/actions/quickstart](https://docs.github.com/en/actions/quickstart)
+- [https://github.com/actions/starter-workflows/blob/main/ci/elixir.yml](https://github.com/actions/starter-workflows/blob/main/ci/elixir.yml)
+
+## Phoenix
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
